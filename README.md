@@ -58,7 +58,7 @@
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="Apache" src ="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white"></a>
+    <a href="#"><img alt="Apache" src ="https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
@@ -99,7 +99,7 @@
     <a href="https://stackoverflow.com/users/14559140/cavitedev"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Mega" src="https://img.shields.io/badge/Mega-%23D90007.svg?logo=Mega&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
     <a href="#"><img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white"></a>
