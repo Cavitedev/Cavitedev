@@ -13,8 +13,10 @@
 ## 🔭 I'm currently working now on
 - ScoreContacts (Flutter)
 
-## 🛠️ My favorite tools from most used to less used
-
+## 🛠️ My favorite Tools
+<details> 
+    <summary>🛠️ Tools from most used to less useds</summary>
+    
 ### 👨‍💻 Programming languages
 
 <p>
@@ -112,14 +114,16 @@
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
     <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
-</p>
+</p>  
+  </details>
+
 
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>📊 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Cavitedev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Cavitedev&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=DEG,1b1726,383441&title_color=ED7588&text_color=FFFFFF" /></a>
     <br/>
