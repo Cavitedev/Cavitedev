@@ -8,7 +8,8 @@
 <a href="https://www.linkedin.com/in/carlos-v-696ab9177/">
 <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto: carlosvt@unicarlos.com">
-<img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="#"> <img alt="Cavitedev's views" src = "https://komarev.com/ghpvc/?username=Cavitedev&color=ED7588&style=plastic"></a>
 
 ## 🔭 I'm currently working now on
 <a href="https://github.com/Cavitedev/score_contacts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cavitedev&repo=score_contacts&theme=react&bg_color=DEG,1b1726,383441&title_color=ED7588&text_color=FFFFFF&hide_border=true" alt="Score Contacts"></a>
