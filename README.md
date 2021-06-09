@@ -113,3 +113,23 @@
     <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
     <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
 </p>
+
+## 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Cavitedev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Cavitedev&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=DEG,1b1726,383441&title_color=ED7588&text_color=FFFFFF" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Cavitedev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Cavitedev&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=DEG,1b1726,383441&title_color=ED7588&text_color=FFFFFF" /></a>
+  <br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img alt="Cavitedev's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Cavitedev&theme=radical&hide_border=true&bg_color=DEG,1b1726,383441&title_color=ED7588&text_color=75EDDA"/></a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Cavitedev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Cavitedev&bg_color=1b1726&color=75EDDA&line=ED7588&point=FFFFFF&hide_border=true" /></a>
+
+<b>Note:</b> These are the languages of my repositories, some of these language are auto generated and most of the projects I have were never uploaded to github, so it doesn't reflect real numbers about how much I have used each
+</details>
+
+
