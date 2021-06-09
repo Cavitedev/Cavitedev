@@ -11,7 +11,7 @@
 <img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## 🔭 I'm currently working now on
-<a href="https://github.com/Cavitedev/score_contacts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cavitedev&repo=score_contacts&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Score Contacts"></a>
+<a href="https://github.com/Cavitedev/score_contacts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cavitedev&repo=score_contacts&theme=react&bg_color=DEG,1b1726,383441&title_color=ED7588&text_color=FFFFFF&hide_border=true" alt="Score Contacts"></a>
 
 ## 🛠️ My favorite Tools
 <details> 
