@@ -1,6 +1,6 @@
 <h3 align="center">
     <span>Welcome to Cavitedev's profile</span>
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+   <img src="https://media.giphy.com/media/Wrb4tVuPPFF3MWxay4/giphy.gif" width="40">
 </h3>
 
 <!--https://github.com/antonkomarev/github-profile-views-counter-->
