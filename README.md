@@ -4,10 +4,11 @@
 </h3>
 
 <a href="https://github.com/Cavitedev">
-    <img alt="Github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Cavitedev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-     <a href="https://www.linkedin.com/in/carlos-v-696ab9177/">
+<img alt="Github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Cavitedev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+<a href="https://www.linkedin.com/in/carlos-v-696ab9177/">
 <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    
+<a href="mailto: carlosvt@unicarlos.com">
+<img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## 🔭 I'm currently working now on
 - ScoreContacts (Flutter)
@@ -23,19 +24,18 @@
     <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=Kotlin&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3AR"><img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3AR"><img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Aprolog"><img alt="Prolog" src="https://img.shields.io/badge/Prolog-%23E61B23.svg?logo=tripadvisor&logoColor=white"></a>
-
 </p>
 
 ### 📝 Markup Languages
 
 <p>
     <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?logo=LaTeX&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Alatex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?logo=LaTeX&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Ahtml5"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -45,7 +45,6 @@
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white"></a>
     <a href="#"><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit%20-%2325A162.svg?logo=cachet&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
 </p>
@@ -97,12 +96,20 @@
 
 <p>
     <a href="https://stackoverflow.com/users/14559140/cavitedev"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Mega" src="https://img.shields.io/badge/Mega-%23D90007.svg?logo=Mega&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="Mega" src="https://img.shields.io/badge/Mega-%23D90007.svg?logo=Mega&logoColor=white"></a>
     <a href="#"><img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white"></a>
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white"></a>
+    <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
+</p>
+
+#### 🛠 Other tools
+
+<p>
+    <a href="#"><img alt="Krita" src="https://img.shields.io/badge/Krita%20-%233BABFF.svg?logo=Krita&logoColor=white"></a>
+    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
+    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
     <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
 </p>
