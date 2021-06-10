@@ -61,12 +61,12 @@
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase"></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?logo=oracle&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="Apache" src ="https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
+    <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase"></a>
+    <a href="http://postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="https://www.oracle.com/database/technologies/"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?logo=oracle&logoColor=white"></a>
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="https://httpd.apache.org/"><img alt="Apache" src ="https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&logoColor=white"></a>
+    <a href="https://www.sqlite.org/index.html"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
 
@@ -85,7 +85,7 @@
 
 <p>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
+    <a href="https://www.office.com/"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
     <a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white"></a>
@@ -111,31 +111,34 @@
 
 <p>
     <a href="https://www.vmware.com/"><img alt="VMware" src="https://img.shields.io/badge/VMware-%23607078.svg?logo=vmware&logoColor=white"></a>
-    <a href="https://www.virtualbox.org/"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?logo=virtualbox&logoColor=white"></a>
+    <a href="https://www.virtualbox.org/"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?logo=virtualbox&logoColor=white"></a>    
     <a href="#"><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
 </p>
 
-#### 🗣 Communication and Coordination
+#### 🗣 Communication, Coordination 👩‍👩‍👦‍👦 and storage 🗃
 
 <p>
     <a href="https://stackoverflow.com/users/14559140/cavitedev"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
-    <a href="#"><img alt="Mega" src="https://img.shields.io/badge/Mega-%23D90007.svg?logo=Mega&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white"></a>
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white"></a>
+    <a href="https://wakatime.com/@Cavitedev"><img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-%23000000.svg?logo=WakaTime&logoColor=white"></a>
+    <a href="https://drive.google.com/drive/my-drive"><img alt="Drive" src="https://img.shields.io/badge/Google%20Drive%20-%234285F4.svg?logo=google%20drive&logoColor=white"></a>
+    <a href="https://onedrive.live.com/"><img alt="OneDrive" src="https://img.shields.io/badge/Microsoft%20OneDrive-%230078D4.svg?logo=microsoft%20onedrive&logoColor=white"></a>
+    <a href="https://mega.nz/C!VNI21QTJ"><img alt="Mega" src="https://img.shields.io/badge/Mega-%23D90007.svg?logo=Mega&logoColor=white"></a>
+    <a href="https://trello.com/carlosvilloratercero/activity"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white"></a>
+
 </p>
 
 #### 🛠 Other tools
 
 <p>
-    <a href="#"><img alt="Krita" src="https://img.shields.io/badge/Krita%20-%233BABFF.svg?logo=Krita&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-    <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
+    <a href="https://krita.org/"><img alt="Krita" src="https://img.shields.io/badge/Krita%20-%233BABFF.svg?logo=Krita&logoColor=white"></a>
+    <a href="https://obsproject.com/"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
+    <a href="https://www.audacityteam.org/"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
+    <a href="https://inkscape.org/"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
 </p>  
   </details>
 
