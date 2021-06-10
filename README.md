@@ -10,6 +10,8 @@
 <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto: carlosvt@unicarlos.com">
 <img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://wa.link/kym90o">
+<img alt="Whatsapp" title="Whatsapp" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="#"> <img alt="Cavitedev's views" src = "https://komarev.com/ghpvc/?username=Cavitedev&color=ED7588&style=plastic&label=Profile%20Views%20👀"></a>
 
 ## 🔭 I'm currently working now on
