@@ -12,6 +12,14 @@
 <img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://wa.link/kym90o">
 <img alt="Whatsapp" title="Whatsapp" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://t.me/Cavitedev">
+<img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://discord.com/users/470506543692120075">
+<img alt="Discord" title="Dicord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/14559140/cavitedev"><img alt="Stack Overflow" title="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://www.reddit.com/user/Nekonyo"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+<a href="https://twitter.com/CaviteDev"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+
 <a href="#"> <img alt="Cavitedev's views" src = "https://komarev.com/ghpvc/?username=Cavitedev&color=ED7588&style=plastic&label=Profile%20Views%20👀"></a>
 
 ## 🔭 I'm currently working now on
