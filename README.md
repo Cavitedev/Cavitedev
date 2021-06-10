@@ -30,8 +30,11 @@
     <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=Kotlin&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3AR"><img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+            <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Ajavascript"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?logo=javascript&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Ahaskell"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-%235D4F85.svg?logo=haskell&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ACavitedev+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+
 </p>
 
 ### 📝 Markup Languages
@@ -45,12 +48,13 @@
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white"></a>
-    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white"></a>
-    <a href="#"><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white"></a>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit%20-%2325A162.svg?logo=cachet&logoColor=white"></a>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
+    <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white"></a>
+    <a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white"></a>
+    <a href="https://developer.android.com/"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+    <a href="https://dotnet.microsoft.com/"><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white"></a>
+    <a href="https://www.arduino.cc/"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+    <a href="https://junit.org/junit5/"><img alt="JUnit" src="https://img.shields.io/badge/JUnit%20-%2325A162.svg?logo=cachet&logoColor=white"></a>
+    <a href="https://material.io/"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
 </p>
 
 
@@ -71,10 +75,10 @@
 #### IDEs
 
 <p>
-    <a href="#"><img alt="IntelliJ Idea" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
+    <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+    <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <a href="https://www.jetbrains.com/pycharm/"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
+    <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
 </p>
 
 #### 📮 Office 
@@ -88,11 +92,26 @@
     <a href="#"><img alt="Microsoft SharePoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white"></a>
 </p>
 
+#### APIs 🌎 used
+    
+<p>
+    <a href="https://developers.google.com/maps"><img alt="Google Maps" src="https://img.shields.io/badge/Google%20Maps-%234285F4.svg?logo=google%20maps&logoColor=white"></a>
+    <a href="https://spoonacular.com/"><img alt="Spoonacular" src="https://img.shields.io/badge/Spoonacular-%23009343.svg?"></a>
+    <a href="https://www.idealista.com/"><img alt="Idealista" src="https://img.shields.io/badge/Idealista-e1f56e?"></a>
+</p>
+    
+#### ERPs 🏢👨‍💼 used    
+    
+<p>
+    <a href="https://velneo.com/"><img alt="Velneo" src="https://img.shields.io/badge/Velneo-%23da291c.svg?"></a>
+    <a href="https://www.odoo.com/"><img alt="Odoo" src="https://img.shields.io/badge/Odoo-%2376526d.svg?"></a>
+</p>
+    
 #### 🖥💾 Operating Systems and virtualization
 
 <p>
-    <a href="#"><img alt="VMware" src="https://img.shields.io/badge/VMware-%23607078.svg?logo=vmware&logoColor=white"></a>
-    <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?logo=virtualbox&logoColor=white"></a>
+    <a href="https://www.vmware.com/"><img alt="VMware" src="https://img.shields.io/badge/VMware-%23607078.svg?logo=vmware&logoColor=white"></a>
+    <a href="https://www.virtualbox.org/"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?logo=virtualbox&logoColor=white"></a>
     <a href="#"><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
@@ -108,7 +127,6 @@
     <a href="#"><img alt="Mega" src="https://img.shields.io/badge/Mega-%23D90007.svg?logo=Mega&logoColor=white"></a>
     <a href="#"><img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white"></a>
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white"></a>
-    <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
 </p>
 
 #### 🛠 Other tools
