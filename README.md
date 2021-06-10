@@ -54,7 +54,7 @@
 </p>
 
 
-### 🗄️ Databases and cloud hosting
+### 🗄️ Databases and Cloud Hosting
 
 <p>
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase"></a>
@@ -88,9 +88,11 @@
     <a href="#"><img alt="Microsoft SharePoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white"></a>
 </p>
 
-#### 🖥💾 Operating Systems
+#### 🖥💾 Operating Systems and virtualization
 
 <p>
+    <a href="#"><img alt="VMware" src="https://img.shields.io/badge/VMware-%23607078.svg?logo=vmware&logoColor=white"></a>
+    <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?logo=virtualbox&logoColor=white"></a>
     <a href="#"><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
