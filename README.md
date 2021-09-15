@@ -27,7 +27,7 @@
 
 ## 🛠️ My favorite Tools
 <details> 
-    <summary>🛠️ Tools from most used to less useds</summary>
+    <summary>🛠️ Tools from most used to less used</summary>
     
 ### 👨‍💻 Programming languages
 
