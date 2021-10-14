@@ -1,7 +1,7 @@
 <h3 align="center">
-    <span>Welcome to Cavitedev's profile</span>
-   <img src="https://media.giphy.com/media/Wrb4tVuPPFF3MWxay4/giphy.gif" width="40">
+    <span>Welcome to Cavitedev's profile 👋</span>
 </h3>
+
 
 <!--https://github.com/antonkomarev/github-profile-views-counter-->
 <a href="https://github.com/Cavitedev">
@@ -19,8 +19,9 @@
 <a href="https://stackoverflow.com/users/14559140/cavitedev"><img alt="Stack Overflow" title="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <a href="https://www.reddit.com/user/Nekonyo"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://twitter.com/CaviteDev"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-
 <a href="#"> <img alt="Cavitedev's views" src = "https://komarev.com/ghpvc/?username=Cavitedev&color=ED7588&style=plastic&label=Profile%20Views%20👀"></a>
+
+![Landscape_presentation_720_trimmed](https://user-images.githubusercontent.com/52750778/137327373-10b0e97e-c3bd-4b99-bfdd-eda5281766e1.gif)
 
 ## 🔭 I'm currently working now on
 <a href="https://github.com/Cavitedev/score_contacts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cavitedev&repo=score_contacts&theme=react&bg_color=DEG,1b1726,383441&title_color=ED7588&text_color=FFFFFF&hide_border=true" alt="Score Contacts"></a>
