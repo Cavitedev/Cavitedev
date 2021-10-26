@@ -88,6 +88,7 @@
 <p>
     <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
     <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=Visual%20Studio%20Code&logoColor=white"></a>
     <a href="https://www.jetbrains.com/pycharm/"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
     <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
 </p>
@@ -135,6 +136,7 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="Azure Devops" src="https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?logo=Azure%20DevOps&logoColor=white"></a>
     <a href="https://wakatime.com/@Cavitedev"><img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-%23000000.svg?logo=WakaTime&logoColor=white"></a>
     <a href="https://drive.google.com/drive/my-drive"><img alt="Drive" src="https://img.shields.io/badge/Google%20Drive%20-%234285F4.svg?logo=google%20drive&logoColor=white"></a>
     <a href="https://onedrive.live.com/"><img alt="OneDrive" src="https://img.shields.io/badge/Microsoft%20OneDrive-%230078D4.svg?logo=microsoft%20onedrive&logoColor=white"></a>
