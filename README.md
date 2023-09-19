@@ -17,9 +17,8 @@
 ![Landscape_presentation_720_trimmed](https://user-images.githubusercontent.com/52750778/137327373-10b0e97e-c3bd-4b99-bfdd-eda5281766e1.gif)
 
 ## 🔭 I'm currently working now on
-<a href="https://github.com/Cavitedev/FarmaCompara"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cavitedev&repo=FarmaCompara&theme=react&bg_color=DEG,1b1726,383441&title_color=ED7588&text_color=FFFFFF&hide_border=true" alt="Farma Compara"></a>
-<a href="https://github.com/Cavitedev/farma_compara_web_scraper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cavitedev&repo=farma_compara_web_scraper&theme=react&bg_color=DEG,1b1726,383441&title_color=ED7588&text_color=FFFFFF&hide_border=true" alt="Farma Compara Scraper"></a>
-<a href="https://github.com/Cavitedev/farma_compara_flutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cavitedev&repo=farma_compara_flutter&theme=react&bg_color=DEG,1b1726,383441&title_color=ED7588&text_color=FFFFFF&hide_border=true" alt="Farma Compara Flutter"></a>
+<a href="https://github.com/Cavitedev/osu-subdivide-nations"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cavitedev&repo=osu-subdivide-nations&theme=react&bg_color=DEG,1b1726,383441&title_color=ED7588&text_color=FFFFFF&hide_border=true" alt="Osu Subdivide Nations"></a>
+
 
 ## 🛠️ My favorite Tools
 <details> 
